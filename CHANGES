@@ -1,4 +1,15 @@
+[0.0.6]
+- Update libGDX to 1.9.15-SNAPSHOT
+
+= Editor =
+
+= Runtime =
+- Support rendering composites to FBO
+
 [0.0.5]
+*Release to switch from Bintray/jCenter to Sonatype/Maven Central*
+
+- Runtime performance improvements
 - Update libGDX to 1.9.14
 - Update Ashley to 1.7.4
 
