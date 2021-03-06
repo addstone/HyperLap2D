@@ -16,4 +16,10 @@ Open Source ❤️
 
 ideace2020.1
 
-jdk 1.8
+jdk 14
+
+
+
+
+
+git submodule update
